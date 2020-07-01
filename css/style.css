@@ -1,0 +1,129 @@
+h1{ 
+
+    font-size: 50px;
+}
+
+h2{
+    font-size: 36px;
+}
+
+p{
+    color: dimgray;
+}
+ .hilight{
+     color: crimson;
+ }
+body{
+font-family: 'Roboto', sans-serif;
+
+}
+
+.half-div{
+
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+
+.peter-img{
+
+    width: 400px;;
+}
+
+.header-sec{
+    height: 600px;
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+.center-text{
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.experience-area{
+    height: 400px;
+    margin-bottom: 200px;
+
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+
+}
+
+.bio-sec{
+
+    height: 600px;
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    
+}
+
+.experience-area{
+
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.latest{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+.clientSaying{
+    text-align: center;
+}
+
+.hireMe-btn{
+
+    color: white;
+    background-image: linear-gradient(150deg, tomato, red);
+    text-decoration: none;
+    background-color: brown;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    font-weight: 500px;
+}
+
+
+.work-img{
+
+    width: 30%;
+    margin-left: 10px;
+    padding: 5px;
+    margin-bottom: 200px;
+    
+}
+
+#full-stack{
+
+    border-left:7px solid ;
+    border-image: linear-gradient(180deg, green, lightgreen);
+    border-image-slice: 1;
+}
+
+#baby-web{
+
+    border-left:7px solid ;
+    border-image: linear-gradient(180deg, blue, lightblue);
+    border-image-slice: 1;
+}
+
+.email-box{
+
+    text-align: center;
+    padding: 20px;
+    margin: 80px 300px;
+    background-color: hotpink;
+    border-radius: 15px;
+}
+
+footer p {
+
+    text-align: center;
+}
